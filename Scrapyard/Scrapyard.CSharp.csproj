@@ -260,10 +260,7 @@
     <Compile Include="Assets\Asset Store\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
     <Compile Include="Assets\Asset Store\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
     <Compile Include="Assets\Asset Store\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
-    <Compile Include="Assets\Scripts\ProtoController.cs" />
-    <Compile Include="Assets\Scripts\ProtoSpawner.cs" />
-    <Compile Include="Assets\Scripts\ScrumManager.cs" />
-    <Compile Include="Assets\Scripts\Scrumbag.cs" />
+    <Compile Include="Assets\Scripts\ScrumMaster.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Asset Store\Blade Sounds\Blade Sounds Readme.txt" />
